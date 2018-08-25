@@ -1,2 +1,2 @@
 # running-web-app
-Internal members can notify others if they are going for a run
+I'm from a small town near Brooklyn, Iowa, where Mollie Tibbetts was killed while on a run. My wife is part of a Women's college, and a lot of the young ladys run alone. I'm developing a web app that allows internal members to notify others that they are going for a run.
